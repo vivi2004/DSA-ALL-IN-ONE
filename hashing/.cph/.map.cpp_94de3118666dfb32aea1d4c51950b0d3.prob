@@ -1,0 +1,1 @@
+{"name":"Local: map","url":"c:\\Users\\Vivek\\OneDrive\\Desktop\\DSA-love\\hashing\\map.cpp","tests":[{"id":1728271670517,"input":"7\n1 2 3 1 3 2 12 \n5\n1\n2\n3\n4\n12\n","output":"2\n2\n2\n0\n1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Vivek\\OneDrive\\Desktop\\DSA-love\\hashing\\map.cpp","group":"local","local":true}

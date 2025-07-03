@@ -1,0 +1,1 @@
+{"name":"Local: subset","url":"c:\\Users\\Vivek\\OneDrive\\Desktop\\DSA-love\\subset.cpp","tests":[{"id":1731133121423,"input":"3\nabc","output":" { }\na\nb\nc\nab\nbc\nac\nabc"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Vivek\\OneDrive\\Desktop\\DSA-love\\subset.cpp","group":"local","local":true}

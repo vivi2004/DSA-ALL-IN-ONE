@@ -1,0 +1,1 @@
+{"name":"Local: string","url":"c:\\Users\\Vivek\\OneDrive\\Desktop\\DSA-love\\hashing\\string.cpp","tests":[{"id":1728268977627,"input":"abcdabehf\n5\na\ng\nh\nb\nc\n","output":"2\n0\n1\n2\n1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Vivek\\OneDrive\\Desktop\\DSA-love\\hashing\\string.cpp","group":"local","local":true}

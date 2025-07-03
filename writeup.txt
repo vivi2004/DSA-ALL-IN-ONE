@@ -1,0 +1,10 @@
+Write-Up for Graph Centrality Analysis:
+    
+    - The graph was created by first generating a random spanning tree using the Prufer sequence method,
+      then adding extra random edges to enrich the graph.
+    - Computed three centrality measures:
+         • Normalized Degree Centrality.
+         • Closeness Centrality.
+         • Betweenness Centrality.
+    - Combined the measures using a weighted sum with an extra fine-tuning factor that rewards nodes connected to highly central nodes.
+    - Highlighted the top 10 nodes in the visualization.
