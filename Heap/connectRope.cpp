@@ -1,5 +1,7 @@
 // connected rope to  minimize the cost..
-#include <bits/stdc++.h>
+#include <iostream>
+#include <vector>
+#include <queue>
 using namespace std;
 
 int connectdRopeMinmCost(vector<int> &rope)
